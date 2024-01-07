@@ -1,0 +1,8 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(244, 235, 224);
+}
+.banner-container{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+}
